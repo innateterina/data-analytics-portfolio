@@ -31,12 +31,12 @@ Across the projects in this portfolio, I apply the following skills:
 | # | Project | Focus | Tools |
 |---|--------|-------|------|
 | 1 | [SQL Data Cleaning & Validation](https://github.com/innateterina/sql-data-cleaning) | Data quality, validation rules | SQL (PostgreSQL) |
-| 2 | [Exploratory Data Analysis (Retail)](https://github.com/your-username/retail-eda) | EDA, trends, distributions | Python, Pandas, Seaborn |
-| 3 | [Marketing Performance KPIs](https://github.com/your-username/marketing-kpis) | CPA, ROAS, LTV, retention | SQL, Python |
-| 4 | [Operational Reporting in Excel](https://github.com/your-username/excel-kpi-reporting) | Business reporting | Excel / Sheets |
-| 5 | [BI Dashboard — Sales & Profitability](https://github.com/your-username/bi-dashboard) | Executive dashboards | Power BI / Tableau |
-| 6 | [End-to-End BI Case Study](https://github.com/your-username/end-to-end-bi) | Full analytics lifecycle | SQL, Python, BI |
-| 7 | [Job Market Analytics (Web Scraping & API)](https://github.com/your-username/job-market-analytics) | External data, market insights | Python, APIs |
+| 2 | [Exploratory Data Analysis (Retail)](https://github.com/innateterina/retail-eda) | EDA, trends, distributions | Python, Pandas, Seaborn |
+| 3 | [Marketing Performance KPIs](https://github.com/innateterina/marketing-kpis) | CPA, ROAS, LTV, retention | SQL, Python |
+| 4 | [Operational Reporting in Excel](https://github.com/innateterina/excel-kpi-reporting) | Business reporting | Excel / Sheets |
+| 5 | [BI Dashboard — Sales & Profitability](https://github.com/innateterina/bi-dashboard) | Executive dashboards | Power BI / Tableau |
+| 6 | [End-to-End BI Case Study](https://github.com/innateterina/end-to-end-bi) | Full analytics lifecycle | SQL, Python, BI |
+| 7 | [Job Market Analytics (Web Scraping & API)](https://github.com/innateterina/job-market-analytics) | External data, market insights | Python, APIs |
 
 --- Project Approach ---
 
@@ -55,8 +55,8 @@ The emphasis is on clarity, reproducibility, and business relevance rather than 
 - Dashboards are included as screenshots or public links where applicable.
 
 --- Contact ---
-- LinkedIn: https://www.linkedin.com/in/inna-teterina-%F0%9F%87%BA%F0%9F%87%A6-4b93a6259/
-- GitHub: https://github.com/innateterina
+- LinkedIn: [https://www.linkedin.com/in/inna-teterina-%F0%9F%87%BA%F0%9F%87%A6-4b93a6259/]
+- GitHub: [https://github.com/innateterina]
 
 Open to opportunities in **Data Analyst, BI Analyst, Performance Analyst**, and related roles. 
   
