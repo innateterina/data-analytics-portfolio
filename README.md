@@ -55,8 +55,8 @@ The emphasis is on clarity, reproducibility, and business relevance rather than 
 - Dashboards are included as screenshots or public links where applicable.
 
 --- Contact ---
-- LinkedIn: [https://www.linkedin.com/in/inna-teterina-%F0%9F%87%BA%F0%9F%87%A6-4b93a6259/]
-- GitHub: [https://github.com/innateterina]
+- LinkedIn: [Inna Teterina](https://www.linkedin.com/in/inna-teterina-%F0%9F%87%BA%F0%9F%87%A6-4b93a6259/)
+- GitHub: [innateterina](https://github.com/innateterina)
 
 Open to opportunities in **Data Analyst, BI Analyst, Performance Analyst**, and related roles. 
   
